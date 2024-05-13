@@ -7,3 +7,6 @@ The study's findings suggest that with further refinement and expansion of the d
 
 <img width="452" alt="image" src="https://github.com/rohanpanch/Plant-Disease-Detection-Machine-Learning-Model/assets/67788296/a832f844-2bf8-4424-ab20-6822125e4980">
 
+<img width="354" alt="image" src="https://github.com/rohanpanch/Plant-Disease-Detection-Machine-Learning-Model/assets/67788296/ac0f59ba-6366-4c57-98b5-7ba3373f9fa8">
+
+
